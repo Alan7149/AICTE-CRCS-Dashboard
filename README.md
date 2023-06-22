@@ -1,7 +1,7 @@
 # Comprehensive Dashboard Design for CRCS Portal
 
 <p align="center">
-  <img src="all_india_council_logo.png" alt="All India Council for Technical Education" width="400">
+  <img src="all_india_council_logo.png" alt="All India Council For Technical Education" width="400">
 </p>
 
 ![Dashboard Preview](dashboard_preview.png)
