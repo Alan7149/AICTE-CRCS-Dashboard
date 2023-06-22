@@ -1,0 +1,43 @@
+# Comprehensive Dashboard Design for CRCS Portal
+
+![CRCS Portal Logo](images/crcs_logo.png)
+
+## Table of Contents
+- [Overview](#overview)
+- [Requirements](#requirements)
+    - [Python Dependencies](#python-dependencies)
+    - [Front-end Dependencies](#front-end-dependencies)
+    - [Back-end Dependencies](#back-end-dependencies)
+    - [Other Dependencies](#other-dependencies)
+    - [System-specific Instructions](#system-specific-instructions)
+        - [macOS](#macos)
+        - [Windows](#windows)
+- [License](#license)
+- [Contact](#contact)
+
+## Overview
+The Comprehensive Dashboard Design is aimed at streamlining the registration process, handling amendments and appeals, and managing annual returns for the registered societies in the CRCS portal. This design will provide an intuitive and efficient user experience, ensuring smooth navigation and easy access to the required functionalities.
+
+![Dashboard Screenshot](images/dashboard_screenshot.png)
+
+## Requirements
+
+### Python Dependencies
+- beautifulsoup4==4.9.3
+- django==3.2.4
+- flask==2.0.1
+- numpy==1.21.0
+- pandas==1.3.0
+
+### Front-end Dependencies
+- bootstrap==5.1.0
+- chart.js==3.5.1
+- d3.js==7.0.0
+
+### Back-end Dependencies
+- django==3.2.4
+- flask==2.0.1
+
+### Other Dependencies
+- requests==2.26.0
+
