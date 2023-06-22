@@ -41,7 +41,7 @@ This project is not licensed
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the Comprehensive Dashboard Design for the CRCS portal, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions are welcome! If you'd like to contribute to the Comprehensive Dashboard Design for the CRCS portal, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)..
 
 ## Contact
 
