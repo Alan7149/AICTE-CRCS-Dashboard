@@ -30,7 +30,7 @@ The Comprehensive Dashboard Design for the upcoming new CRCS (Central Registry o
 To set up the Comprehensive Dashboard for the CRCS portal locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
+2. Install the required dependencies listed in the  file.
 3. Customize and configure the dashboard as per your project requirements.
 4. Run the application locally using a web server.
 5. Access the dashboard via the provided URL and explore its features.
