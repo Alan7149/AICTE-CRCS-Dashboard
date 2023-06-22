@@ -4,7 +4,6 @@
   <img src="all_india_council_logo.png" alt="All India Council For Technical Education" width="400">
 </p>
 
-![Dashboard Preview](dashboard_preview.png)
 
 The Comprehensive Dashboard Design for the upcoming new CRCS (Central Registry of Cooperative Societies) portal aims to streamline the registration process, handle amendments and appeals, and manage annual returns for registered societies. This dashboard design provides an intuitive and user-friendly interface to enhance user experience and simplify administrative tasks.
 
@@ -16,10 +15,6 @@ The Comprehensive Dashboard Design for the upcoming new CRCS (Central Registry o
 - **Data Visualization**: Visual representations such as charts and graphs offer insightful data visualization, allowing administrators to analyze registration trends, appeals status, and annual return compliance.
 - **User-Friendly Interface**: The dashboard design focuses on providing an intuitive and visually appealing interface, ensuring an effortless navigation experience for users.
 - **Responsive Design**: The dashboard is designed to be responsive and compatible with various devices, enabling access and usage from desktops, tablets, and mobile devices.
-
-## Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
 
 ## Technologies Used
 
