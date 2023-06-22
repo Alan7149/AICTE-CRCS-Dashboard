@@ -1,4 +1,3 @@
-# AICTE-CRCS-Dashboard
 # Comprehensive Dashboard Design for CRCS Portal
 
 ![Dashboard Preview](dashboard_preview.png)
