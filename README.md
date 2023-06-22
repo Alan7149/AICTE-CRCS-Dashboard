@@ -38,9 +38,6 @@ To set up the Comprehensive Dashboard for the CRCS portal locally, follow these 
 **Note:** The Excel file for the Dummyset for the society details is in the below link.
 - [Download Dummy Data Excel File](https://docs.google.com/spreadsheets/d/1-in1Gxr0FX9-ZxfoJHw6UUVM_HQHLa2A/edit#gid=1581958493)
 
-## License
-
-This project is not licensed 
 
 ## Contributing
 
