@@ -14,7 +14,7 @@ Thank you for considering contributing to our project! We welcome contributions 
 
 6. **Code Style and Conventions**: Follow the project's coding style and conventions. Maintain consistency with the existing codebase, including indentation, variable naming, commenting conventions, and any other style guidelines mentioned in the project documentation.
 
-7. **Commit Guidelines**: Make concise and meaningful commits. Provide a clear and descriptive commit message that explains the changes made in the commit. If your contribution addresses a specific issue, reference the issue number in the commit message using the appropriate syntax.
+7. **Commit Guidelines**: Make concise and meaningful commits. Provide a clear and descriptive commit message that explains the changes made in the commit. If your contribution addresses a specific issue, reference the issue number in the commit message using the appropriate syntax
 
 8. **Testing**: Whenever applicable, include appropriate tests for your code changes. Ensure that existing tests pass successfully. Write new tests to cover any new functionality or bug fixes.
 
