@@ -21,9 +21,9 @@ The Comprehensive Dashboard Design for the upcoming new CRCS (Central Registry o
 ## Technologies Used
 
 - Front-end: HTML, CSS, JavaScript
-- Back-end: Python, Django (optional)
-- Data Visualization: Chart.js, D3.js (optional)
-- Responsive Design: Bootstrap, CSS media queries
+- Back-end: Python, Django
+- Data Visualization: Chart.js, D3.js 
+- Responsive Design: Bootstrap
 
 ## Getting Started
 
