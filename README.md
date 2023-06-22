@@ -1,7 +1,7 @@
 # Comprehensive Dashboard Design for CRCS Portal
 
 <p align="center">
-  <a href="https://www.aicte-india.org/" target="_blank">
+  <a href="https://www.aicte-india.org/" target="_blank" >
     <img src="https://panjwanitutorials.com/static/images/tutorials-images/aicte_icon.png" alt="All India Council For Technical Education" width="200">
   </a>
 </p>
